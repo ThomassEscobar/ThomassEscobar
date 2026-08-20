@@ -1,28 +1,28 @@
-# Hi there 👋 I'm **Thomas Escobar**
+# **Thomas Escobar**
 
 | Cloud • Backend • Data Engineering
 
-[![Profile views](https://img.shields.io/badge/Profile_views-1,234-555555?style=flat-square)](https://github.com/ThomassEscobar)
+[![Vistas del perfil](https://img.shields.io/badge/Profile_views-1,234-555555?style=flat-square)](https://github.com/ThomassEscobar)
 
 ---
 
-### About Me
+### 👨‍💻 Sobre Mí
 
-- 🎓 **Computer Engineering Student** focused on Cloud Architecture, Microservices, and Data Engineering.
-- 🚀 **AWS Cloud Club Captain** driving tech community engagement and cloud adoption.
-- ☁️ Designing scalable cloud environments with **AWS & Azure**.
-- ☕ Building robust backend microservices with **Java, Spring Boot, Eureka & API Gateway**.
-- 📊 Data processing, science & analytics with **Python (Pandas, NumPy, SciPy, Matplotlib) & SQL/PL-SQL**.
-
----
-
-### Leadership & Achievements
-
-- ☁️ **AWS SBG Leader Badge** — Recognized for leadership in technical initiatives within the AWS ecosystem.
+- 🎓 **Estudiante de Ingeniería en Informática** enfocado en Arquitectura Cloud, Microservicios e Ingeniería de Datos.
+- 🚀 **AWS SBG Leader** impulsando la comunidad tecnológica y la adopción de la nube.
+- ☁️ Diseño de entornos cloud escalables en **AWS y Azure**.
+- ☕ Desarrollo de microservicios backend robustos con **Java, Spring Boot, Eureka y API Gateway**.
+- 📊 Procesamiento de datos y analítica con **Python (Pandas, NumPy, SciPy, Matplotlib) y SQL/PL-SQL**.
 
 ---
 
-### Featured Certifications
+### 🚀 Liderazgo y Logros
+
+- ☁️ **AWS SBG Leader Badge** — Reconocimiento por liderazgo en iniciativas técnicas dentro del ecosistema de AWS.
+
+---
+
+### 🏆 Certificaciones Destacadas
 
 - ☁️ **AWS Certified Cloud Practitioner**
 - ☁️ **AWS Academy Graduate – Cloud Foundations**
@@ -32,7 +32,7 @@
 - ⚙️ **DevOps Essentials Professional Certificate**
 
 <details>
-<summary><b>🔍 Other Credentials</b></summary>
+<summary><b>🔍 Otras Credenciales</b></summary>
 
 - Red Hat System Administration I & II
 - Cyber Security Foundation Professional Certificate
@@ -42,9 +42,9 @@
 
 ---
 
-### Tech Stack
+### 🧰 Stack Tecnológico
 
-#### ☁️ Cloud & Infrastructure
+#### ☁️ Nube e Infraestructura
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/AZURE-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -53,7 +53,7 @@
 ![CloudWatch](https://img.shields.io/badge/CLOUDWATCH-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![API Gateway](https://img.shields.io/badge/API_GATEWAY-8C4FFF?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-#### 💻 Backend Development
+#### 💻 Desarrollo Backend
 ![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Maven](https://img.shields.io/badge/MAVEN-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
@@ -62,7 +62,7 @@
 ![Eureka](https://img.shields.io/badge/EUREKA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Mockito](https://img.shields.io/badge/MOCKITO-C5D200?style=for-the-badge&logo=testing-library&logoColor=black)
 
-#### 📊 Data Science & Databases
+#### 📊 Ciencia de Datos y Bases de Datos
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -71,7 +71,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-#### 🛠️ DevOps, Systems & Frontend
+#### 🛠️ DevOps, Sistemas y Frontend
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Red Hat](https://img.shields.io/badge/RED_HAT-EE0000?style=for-the-badge&logo=red-hat&logoColor=white)
@@ -81,23 +81,11 @@
 
 ---
 
----
-
----
-
----
-
----
-
----
----
-
----
-
-### GitHub Stats
+### 📈 Estadísticas de GitHub
 
 <div align="center">
 
-<img src="https://languaguer.vercel.app/api?username=ThomassEscobar&theme=dark" alt="Top Languages Donut" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ThomassEscobar&show_icons=true&theme=dark&layout=compact&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Estadísticas de Thomas Escobar" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomassEscobar&theme=dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&layout=compact" alt="Lenguajes Principales" width="48%" />
 
 </div>

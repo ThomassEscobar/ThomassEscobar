@@ -1,9 +1,6 @@
 # Thomas Escobar
 
 > **Cloud Architecture • Backend Development • Data Engineering**
-
-
----
 ---
 
 ### 👨‍💻 Sobre Mí

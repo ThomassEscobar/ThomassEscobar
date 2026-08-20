@@ -81,7 +81,13 @@
 
 ---
 
+---
+
 ### GitHub Stats
 
-![Thomas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThomassEscobar&show_icons=true&theme=dark&bg_color=0D1117&border_color=30363D&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomassEscobar&layout=compact&theme=dark&bg_color=0D1117&border_color=30363D&title_color=FFFFFF&text_color=8B949E)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ThomassEscobar&show_icons=true&theme=transparent&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333&hide_border=false" alt="Thomas's GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomassEscobar&layout=compact&theme=transparent&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333&hide_border=false" alt="Top Languages" width="40%" />
+
+</div>

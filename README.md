@@ -79,11 +79,13 @@
 
 ---
 
+---
+
 ### 📈 Estadísticas de GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ThomassEscobar&show_icons=true&theme=dark&layout=compact&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Estadísticas de Thomas Escobar" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomassEscobar&theme=dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&layout=compact" alt="Lenguajes Principales" width="48%" />
+<img src="https://github-readme-stats-git-masterrstme-anuraghazra.vercel.app/api?username=ThomassEscobar&show_icons=true&theme=dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Estadísticas de Thomas Escobar" width="48%" />
+<img src="https://github-readme-stats-git-masterrstme-anuraghazra.vercel.app/api/top-langs/?username=ThomassEscobar&theme=dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&layout=compact" alt="Lenguajes Principales" width="48%" />
 
 </div>

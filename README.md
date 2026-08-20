@@ -92,10 +92,12 @@
 ---
 ---
 
+---
+
 ### GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstme-anuraghazra.vercel.app/api/top-langs/?username=ThomassEscobar&layout=donut&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF&border_color=30363D&hide_border=false" alt="Top Languages Donut" width="45%" />
+<img src="https://languaguer.vercel.app/api?username=ThomassEscobar&theme=dark" alt="Top Languages Donut" width="48%" />
 
 </div>

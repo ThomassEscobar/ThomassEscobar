@@ -2,8 +2,6 @@
 
 | Cloud • Backend • Data Engineering
 
-[![Vistas del perfil](https://img.shields.io/badge/Profile_views-1,234-555555?style=flat-square)](https://github.com/ThomassEscobar)
-
 ---
 
 ### 👨‍💻 Sobre Mí

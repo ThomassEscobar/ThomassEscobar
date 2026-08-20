@@ -85,20 +85,16 @@
 
 ---
 
+---
+
 ### GitHub Stats
 
 <div align="center">
 
-<!-- Gráfico de Actividad de Contribuciones (Estable) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThomassEscobar&theme=react-dark&bg_color=0D1117&hide_border=false" alt="Thomas Activity Graph" width="95%" />
+<!-- Gráfico de Dona para Lenguajes (Minimalista y Oscuro) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThomassEscobar&theme=dark" alt="Thomas Language Pie Chart" width="48%" />
 
-</div>
-
-<br />
-
-<div align="center">
-
-<!-- Trophies de GitHub en modo oscuro -->
-<img src="https://github-profile-trophies.vercel.app/?username=ThomassEscobar&theme=onedark&column=4&margin-w=15&margin-h=15&no-bg=true" alt="Thomas Trophies" width="90%" />
+<!-- Gráfico de Actividad Limpio -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThomassEscobar&theme=react-dark&bg_color=0D1117&hide_border=true" alt="Thomas Activity Graph" width="48%" />
 
 </div>

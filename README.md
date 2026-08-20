@@ -87,14 +87,13 @@
 
 ---
 
+---
+
 ### GitHub Stats
 
 <div align="center">
 
-<!-- Gráfico de Dona para Lenguajes (Minimalista y Oscuro) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThomassEscobar&theme=dark" alt="Thomas Language Pie Chart" width="48%" />
-
-<!-- Gráfico de Actividad Limpio -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThomassEscobar&theme=react-dark&bg_color=0D1117&hide_border=true" alt="Thomas Activity Graph" width="48%" />
+<!-- Gráfico de Dona Exacto (Mirror Estable) -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ThomassEscobar&layout=donut&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF&border_color=30363D" alt="Top Languages Donut" width="45%" />
 
 </div>

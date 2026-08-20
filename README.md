@@ -2,7 +2,6 @@
 
 > **Cloud Architecture • Backend Development • Data Engineering**
 
-[![Profile Views](https://img.shields.io/badge/Views-1,234-111111?style=flat-square&logo=github)](https://github.com/ThomassEscobar)
 
 ---
 ---

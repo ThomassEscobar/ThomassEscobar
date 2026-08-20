@@ -90,12 +90,12 @@
 ---
 
 ---
+---
 
 ### GitHub Stats
 
 <div align="center">
 
-<!-- Gráfico de Dona para Lenguajes (Instancia Estable sin Límites de API) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThomassEscobar&theme=dark" alt="Top Languages Donut" width="48%" />
+<img src="https://github-readme-stats-git-masterrstme-anuraghazra.vercel.app/api/top-langs/?username=ThomassEscobar&layout=donut&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF&border_color=30363D&hide_border=false" alt="Top Languages Donut" width="45%" />
 
 </div>

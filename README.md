@@ -83,15 +83,14 @@
 
 ---
 
+---
+
 ### GitHub Stats
 
 <div align="center">
 
-<!-- Streak Stats en modo oscuro -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ThomassEscobar&theme=dark&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="Thomas GitHub Streak" width="49%" />
-
-<!-- Top Languages alternativo estable -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomassEscobar&layout=compact&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D" alt="Top Languages" width="41%" />
+<!-- Gráfico de Actividad de Contribuciones (Estable) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThomassEscobar&theme=react-dark&bg_color=0D1117&hide_border=false" alt="Thomas Activity Graph" width="95%" />
 
 </div>
 
@@ -99,7 +98,7 @@
 
 <div align="center">
 
-<!-- Gráfico de Actividad Oscuro -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThomassEscobar&theme=github-compact" alt="Thomas Activity Graph" width="91%" />
+<!-- Trophies de GitHub en modo oscuro -->
+<img src="https://github-profile-trophies.vercel.app/?username=ThomassEscobar&theme=onedark&column=4&margin-w=15&margin-h=15&no-bg=true" alt="Thomas Trophies" width="90%" />
 
 </div>

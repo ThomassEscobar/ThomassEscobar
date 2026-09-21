@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="210.4543960300017" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="210.4543960300017" y="0" width="102.67851452538243" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="313.13291055538417" y="0" width="68.13136764678099" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="381.26427820216514" y="0" width="52.52987889741862" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="433.79415709958374" y="0" width="16.49199261922905" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="450.28614971881274" y="0" width="9.001794812048542" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="459.2879445308613" y="0" width="0.5249163995440548" height="8" fill="#5B2063"/>
-                    <rect mask="url(#languages-bar)" x="459.8128609304054" y="0" width="0.18713906959462437" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="204.62884449114455" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="204.62884449114455" y="0" width="99.83628842041838" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="304.46513291156293" y="0" width="66.24543510687545" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="370.71056801843844" y="0" width="51.075808454512725" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="421.78637647295113" y="0" width="16.03548063946468" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="437.82185711241584" y="0" width="12.9151389123614" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="450.7369960247772" y="0" width="8.752617695252512" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="459.48961372002975" y="0" width="0.5103862799703145" height="8" fill="#5B2063"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -40,7 +40,7 @@
                                 Java
                             </div>
                             <small>
-                                <div>45.75%</div>
+                                <div>44.48%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -51,7 +51,7 @@
                                 CSS
                             </div>
                             <small>
-                                <div>14.81%</div>
+                                <div>14.4%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -62,18 +62,18 @@
                                 Python
                             </div>
                             <small>
-                                <div>3.59%</div>
+                                <div>3.49%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#5B2063" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#A97BFF" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Gherkin
+                                Kotlin
                             </div>
                             <small>
-                                <div>0.11%</div>
+                                <div>1.9%</div>
                             </small>
                         </div>
                     </section>
@@ -86,7 +86,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>22.32%</div>
+                                <div>21.7%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -97,29 +97,29 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>11.42%</div>
+                                <div>11.1%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#A97BFF" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#DA5B0B" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Kotlin
+                                Jupyter Notebook
                             </div>
                             <small>
-                                <div>1.96%</div>
+                                <div>2.81%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#5B2063" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Dockerfile
+                                Gherkin
                             </div>
                             <small>
-                                <div>0.04%</div>
+                                <div>0.11%</div>
                             </small>
                         </div>
                     </section>

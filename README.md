@@ -60,7 +60,7 @@
 ![Eureka](https://img.shields.io/badge/EUREKA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Mockito](https://img.shields.io/badge/MOCKITO-C5D200?style=for-the-badge&logo=testing-library&logoColor=black)
 
-#### 🎨 Frontend
+#### 🎨 Desarrollo Frontend
 ![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
